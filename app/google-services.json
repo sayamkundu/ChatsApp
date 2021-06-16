@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167929639943",
+    "project_id": "chatsapp-de68c",
+    "storage_bucket": "chatsapp-de68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167929639943:android:887a0aff5b5feb65c7a6a2",
+        "android_client_info": {
+          "package_name": "com.sayam.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167929639943-8095umrhk84jgugjhf2kkoripsqtto9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJOR8Fu7GeDepPUrmrV9iGW4khkOtClEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167929639943-8095umrhk84jgugjhf2kkoripsqtto9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
